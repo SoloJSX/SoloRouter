@@ -1,0 +1,22 @@
+{
+    "name": "solorouter",
+    "version": "0.0.1",
+    "description": "Tiny client-side router",
+    "type": "module",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SoloJSX/SoloRouter.git"
+    },
+    "keywords": [
+        "router",
+        "solorouter"
+    ],
+    "author": "eekelof",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SoloJSX/SoloRouter/issues"
+    },
+    "homepage": "https://github.com/SoloJSX/SoloRouter#readme"
+}
